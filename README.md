@@ -16,7 +16,6 @@
 ![Android](https://img.shields.io/badge/-Android%20Native-%23282C34?style=flat-square&logo=Android)
 ![Flutter](https://img.shields.io/badge/-Flutter%20Native-%23282C34?style=flat-square&logo=flutter)
 ![React Native](https://img.shields.io/badge/-React%20Native-%23282C34?style=flat-square&logo=react)
-
 			</div>
 			<br>
 			<h2 align="center">Databases :computer:</h2>
