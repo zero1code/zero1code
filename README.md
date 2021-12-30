@@ -3,7 +3,7 @@
 	:earth_americas: São Paulo, SP - Brazil
 	<br/>
 	<br/>
-	<p>Front-end Developer | Full-stack Student </p>
+	<p>Android developer | Full-stack Student </p>
 </div>
 <table align="center">
 	<tr>
@@ -11,13 +11,12 @@
 			<h2 align="center">Techs :robot:</h2>
 			<div align="center">
 
-![ReactJS](https://img.shields.io/badge/-ReactJS-%23282C34?style=flat-square&logo=react)
+![JAVA](https://img.shields.io/badge/-JAVA-%23282C34?style=flat-square&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-%23282C34?style=flat-square&logo=kotlin)
+![Android](https://img.shields.io/badge/-Android%20Native-%23282C34?style=flat-square&logo=Android)
+![Flutter](https://img.shields.io/badge/-Flutter%20Native-%23282C34?style=flat-square&logo=flutter)
 ![React Native](https://img.shields.io/badge/-React%20Native-%23282C34?style=flat-square&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-%23282C34?style=flat-square&logo=typescript&logoColor=007bcd)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+
 			</div>
 			<br>
 			<h2 align="center">Databases :computer:</h2>
