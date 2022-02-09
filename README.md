@@ -1,36 +1,25 @@
-<div align="center">
-	<h1> Hello there, I'm Airton </h1>
-	:earth_americas: São Paulo, SP - Brazil
-	<br/>
-	<br/>
-	<p>Android developer | Full-stack Student </p>
-</div>
-<table align="center">
-	<tr>
-		<td>
-			<h2 align="center">Techs :robot:</h2>
-			<div align="center">
+# Airton Oliveira
 
-![JAVA](https://img.shields.io/badge/-JAVA-%23282C34?style=flat-square&logo=java)
-![Kotlin](https://img.shields.io/badge/-Kotlin-%23282C34?style=flat-square&logo=kotlin)
-![Android](https://img.shields.io/badge/-Android%20Native-%23282C34?style=flat-square&logo=Android)
-![Flutter](https://img.shields.io/badge/-Flutter%20Native-%23282C34?style=flat-square&logo=flutter)
-![React Native](https://img.shields.io/badge/-React%20Native-%23282C34?style=flat-square&logo=react)
-			</div>
-			<br>
-			<h2 align="center">Databases :computer:</h2>
-			<div align="center">
-    <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-  	<img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-			</div>
-		</td>
-		<td>
-			<p align = "center">
-				<img alt="Airton Oliveira github stats" src="https://github-readme-stats.vercel.app/api?username=zero1code&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
-			<br>
-				<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zero1code&hide_langs_below=.25&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact">     
-			</p>
-		</td>
-  </tr>
-</table>
+[![Linkedin Badge](https://img.shields.io/badge/-Airton%20Oliveira-FF9900?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/airton-oliveira-42b52917b)](https://www.linkedin.com/in/airton-oliveira-42b52917b) 
+[![Gmail Badge](https://img.shields.io/badge/-atn0803@gmail.com-FF9900?style=flat-square&logo=Gmail&logoColor=white&link=mailto:atn0803@gmail.com)](mailto:atn0803@gmail.com)
+
+Formado em Sistema de Informação pelo Centro Universitário ENIAC.
+
+Apaixonado por programação, sempre busco melhorar cada dia mais meus conhecimentos e assim criar aplicações fluídas, limpas, responsivas e modernas com as tecnologias mais modernas do mercado.
+
+Entusiasta das melhores tecnologias de desenvolvimento móvel nativo e híbrido.
+
+<div style="display: inline_block">
+  <img align="center" alt="android"      height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/1629923496721.svg">
+  <img align="center" alt="Kotlin"       height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/kotlin.svg">
+  <img align="center" alt="Java"         height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/java.svg">
+  <img align="center" alt="Flutter"      height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/flutter.svg">
+  <img align="center" alt="React Native" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/react-native.svg">
+</div>
+
+<div>
+  <br>
+  <a href="https://github.com/danlibs">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zero1code&layout=compact&lang_count=16&theme=darcula"/>
+</div>
+
