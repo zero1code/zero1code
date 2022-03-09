@@ -5,7 +5,7 @@
 
 Formado em Sistema de Informação pelo Centro Universitário ENIAC.
 
-Apaixonado por programação, sempre busco melhorar cada dia mais meus conhecimentos e assim criar aplicações fluídas, limpas, responsivas e modernas com as tecnologias mais modernas do mercado.
+Apaixonado por programação, sempre busco melhorar cada dia mais meus conhecimentos e assim criar aplicações fluídas, limpas e responsivas com as tecnologias mais modernas do mercado.
 
 Entusiasta das melhores tecnologias de desenvolvimento móvel nativo e híbrido.
 
